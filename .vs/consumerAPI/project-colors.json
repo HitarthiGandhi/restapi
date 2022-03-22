@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "309a41bc-821f-416a-88ac-61b06ee40f5f": {
+      "ProjectGuid": "309a41bc-821f-416a-88ac-61b06ee40f5f",
+      "DisplayName": "ProducerAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
